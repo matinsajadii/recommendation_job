@@ -1,0 +1,10 @@
+python-jobspy==1.1.75
+reflex==0.6.4
+openai==0.28.0
+pandas==2.2.3
+numpy==1.26.3
+tiktoken==0.8.0
+psycopg2-binary==2.9.10pgvector
+python-dotenv==1.0.1
+loguru==0.7.2
+pymupdf4llm==0.0.17
